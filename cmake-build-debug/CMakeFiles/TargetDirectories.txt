@@ -1,0 +1,3 @@
+C:/DS project/cmake-build-debug/CMakeFiles/DS_project.dir
+C:/DS project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DS project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
